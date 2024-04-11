@@ -2,12 +2,14 @@
 
 Windows 10, introduced in 2015, focused on a user-friendly experience with features like the Start Menu. Windows 11, released in 2021, enhanced aesthetics and multitasking capabilities. Windows 12, expected in 2025, will emphasize AI, including an advanced Copilot and AI-powered search. No official details about Windows 13 exist yet. Each version builds on the previous, improving user interface, security, and performance, while introducing new technologies and adapting to changing hardware standards.
 
+#
 ### Historic Windows OSs
 
 Microsoft's journey in operating systems began with MS-DOS (Microsoft Disk Operating System) in the early 1980s, laying the foundation for their dominance in personal computing. With the release of Windows 1.0 in 1985, Microsoft revolutionized the user interface with a graphical environment, albeit one limited in functionality. Subsequent iterations, such as Windows 3.0 and Windows 95, brought significant improvements, introducing features like multitasking and a more intuitive user interface. Windows XP marked a milestone in stability and usability, becoming one of the most beloved versions. The early 2000s saw a shift to 64-bit architecture with Windows XP 64-bit Edition and the introduction of Windows Vista, though its reception was mixed due to performance and compatibility issues. Windows 7, released in 2009, restored faith with its improved performance and interface, setting a high standard for user experience.
 
 As technology evolved, so did Microsoft's operating systems. Windows 8, with its focus on touch-centric interfaces, represented a departure from traditional desktop computing, aiming for a unified experience across devices. However, its radical changes faced criticism, leading to the more refined Windows 10 in 2015. Windows 10 emphasized a balance between touch and traditional input methods, introducing features like Cortana and the Edge browser. Moreover, it adopted a Windows-as-a-Service model, with continuous updates rather than major releases, ensuring users stay current with the latest features and security patches. Looking forward, Microsoft continues to innovate with initiatives like Windows 11, which promises a redesigned interface and enhanced productivity features to meet the evolving needs of users in an increasingly connected world.
 
+#
 ### Windows 12 Rapid Release Cycle
 
 ![Windows 12](https://github.com/sourceduty/Windows/assets/123030236/c0c7a618-b4c8-4bd1-b2de-18bad4117140)
