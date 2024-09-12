@@ -37,9 +37,9 @@ Overall, the IV of Windows across its lifespan reflects significant advancements
 
 <br>
 
-+---------------+--------------------------------------------+---------------------------------------------+
+
 | Windows       | Key Usability Improvements                 | Key Efficiency Improvements                 |
-+---------------+--------------------------------------------+---------------------------------------------+
+|---------------|----------------------------------------------|--------------------------------------------|
 | Windows 1.0   | Basic graphical interface                   | Low efficiency, resource-intensive          |
 | Windows 95    | Start Menu, taskbar for easier navigation   | Improved system performance                 |
 | Windows XP    | Intuitive design, stability                 | Optimized multitasking, better stability    |
@@ -47,7 +47,6 @@ Overall, the IV of Windows across its lifespan reflects significant advancements
 | Windows 8     | Touch interface, Start Screen (controversial)| Mixed performance, slower on older hardware |
 | Windows 10    | Hybrid UI combining old and new elements    | Fast boot times, streamlined updates        |
 | Windows 11    | Sleek design, Snap Layouts for productivity | Improved resource usage, faster performance |
-+---------------+--------------------------------------------+---------------------------------------------+
 
 #
 ### Related Links
