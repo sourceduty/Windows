@@ -1,5 +1,9 @@
 ![Windows 13](https://github.com/sourceduty/Windows/assets/123030236/568d057b-d068-4f86-aa46-b5d2afdde9f6)
 
+> Windows operating system.
+
+#
+
 Windows 10, introduced in 2015, focused on a user-friendly experience with features like the Start Menu. Windows 11, released in 2021, enhanced aesthetics and multitasking capabilities. Windows 12, expected in 2025, will emphasize AI, including an advanced Copilot and AI-powered search. No official details about Windows 13 exist yet. Each version builds on the previous, improving user interface, security, and performance, while introducing new technologies and adapting to changing hardware standards.
 
 #
