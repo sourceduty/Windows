@@ -52,6 +52,16 @@ Overall, the IV of Windows across its lifespan reflects significant advancements
 ### Related Links
 
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
+<br>
+[Registry](https://github.com/sourceduty/Registry)
+<br>
+[Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
+<br>
+[Taskbar Programmer](https://github.com/sourceduty/Taskbar_Programmer)
+<br>
+[Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
+<br>
+[Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
