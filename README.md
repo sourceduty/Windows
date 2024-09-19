@@ -64,6 +64,8 @@ Moreover, public perception and marketing play a crucial role in the success of 
 #
 ### Windows 13 Nightmares
 
+![Mocrisoft](https://github.com/user-attachments/assets/1ca41c89-93dc-498b-9d05-cb27b2095aab)
+
 Triskaidekaphobia, or the fear of the number 13, could have real psychological effects on users when interacting with a product like Windows 13. For individuals already experiencing anxiety or superstition-based fears, the association of their daily computing experience with an unlucky number could heighten stress levels. Since operating systems are deeply integrated into everyday life, seeing the number 13 regularly could act as a trigger for these fears, potentially increasing anxiety in certain users. This could lead to avoidance behaviors, where users might refrain from upgrading to Windows 13 altogether, or even experience discomfort when using devices running on this version.
 
 For some, the persistent exposure to a feared number can exacerbate underlying mental health issues, such as obsessive-compulsive disorder (OCD) or generalized anxiety disorder (GAD). The constant reminder of something they view as unlucky or harmful may increase their sense of dread, leading to mental fatigue or avoidance strategies that affect productivity. In extreme cases, the presence of "Windows 13" on their devices might push users to revert to older versions of the operating system, switch to alternative platforms, or seek out methods to mask or alter their user interface to avoid direct interaction with the number.
