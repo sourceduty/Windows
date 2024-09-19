@@ -18,7 +18,7 @@ As technology evolved, so did Microsoft's operating systems. Windows 8, with its
 #
 ### Windows 12 Rapid Release Cycle
 
-![Win12](https://github.com/user-attachments/assets/b29b25b2-e85a-44f6-83b4-5aee1874fbc1)
+![Windows](https://github.com/user-attachments/assets/fd16dd5c-421f-49d0-bb69-367028540211)
 
 Windows 10 and 11 mark significant milestones in Microsoft's operating system evolution. While Windows 10 established a balance between familiarity and innovation, Windows 11 takes a leap forward with a redesigned interface, enhanced productivity features, and better integration with cloud services. Windows 11 introduces a centered taskbar, new snap layouts for multitasking, and a more cohesive design language with rounded corners and updated icons. Moreover, it emphasizes gaming with features like DirectStorage for faster loading times and Auto HDR for improved visuals, catering to the growing gaming community. Under the hood, Windows 11 boasts optimizations for performance and efficiency, promising smoother operations across various devices, including PCs, tablets, and 2-in-1s.
 
