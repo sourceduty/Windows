@@ -25,7 +25,7 @@ After setting up the new laptop, sign in with the same Microsoft account to rest
 #
 ### Group Policies
 
-![Group Policy](https://github.com/user-attachments/assets/57e76a22-f5d1-4ba8-89b0-aa091d84aa5f)
+![Group Policy](https://github.com/user-attachments/assets/f996cc40-e611-48a5-8909-40198a79fbb7)
 
 In Windows 11, grouppolicy.msc (the Group Policy Editor) is not included by default in the Home edition of the operating system. This tool is typically reserved for the Pro, Enterprise, and Education versions, where it allows users to modify system settings and enforce administrative policies. The lack of this tool in Windows 11 Home can be inconvenient for users who want more control over system configurations, such as managing Windows updates or setting security policies. To access grouppolicy.msc on Windows 11 Home, users need to upgrade to a Pro version or use alternative methods.
 
