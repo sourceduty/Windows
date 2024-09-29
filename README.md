@@ -23,6 +23,13 @@ To switch from one Windows 11 laptop to another, first back up all your importan
 After setting up the new laptop, sign in with the same Microsoft account to restore your settings and files if you used OneDrive for backup. For programs that don't sync automatically, you'll need to reinstall them manually from the web or installation media. Make sure your device drivers and Windows updates are up to date by checking the Windows Update settings. You might also want to configure your desktop environment and preferences the same way you had them on the old laptop. Lastly, double-check that all important files have transferred properly, and consider keeping the old laptop until you're certain everything is set up smoothly on the new one.
 
 #
+### Group Policies
+
+![Group Policy](https://github.com/user-attachments/assets/57e76a22-f5d1-4ba8-89b0-aa091d84aa5f)
+
+In Windows 11, grouppolicy.msc (the Group Policy Editor) is not included by default in the Home edition of the operating system. This tool is typically reserved for the Pro, Enterprise, and Education versions, where it allows users to modify system settings and enforce administrative policies. The lack of this tool in Windows 11 Home can be inconvenient for users who want more control over system configurations, such as managing Windows updates or setting security policies. To access grouppolicy.msc on Windows 11 Home, users need to upgrade to a Pro version or use alternative methods.
+
+#
 ### Windows Migration Concept
 
 ![Concept](https://github.com/user-attachments/assets/ffa196fe-f422-4241-8e5a-f46882632014)
