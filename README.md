@@ -1,4 +1,4 @@
-![Windows 13](https://github.com/sourceduty/Windows/assets/123030236/568d057b-d068-4f86-aa46-b5d2afdde9f6)
+![Windows Brain Meme](https://github.com/user-attachments/assets/3cfd743f-a71b-4f8f-abda-50c82ecad094)
 
 > Windows operating system.
 
@@ -79,6 +79,8 @@ Overall, the IV of Windows across its lifespan reflects significant advancements
 
 #
 ### Windows 13 Number
+
+![Windows 13](https://github.com/sourceduty/Windows/assets/123030236/568d057b-d068-4f86-aa46-b5d2afdde9f6)
 
 Windows 13 could face significant challenges due to the widespread superstition surrounding the number 13, which is often associated with bad luck in various cultures. Many buildings skip the 13th floor, and airlines avoid having a row 13 on planes due to customers’ discomfort. This fear, known as triskaidekaphobia, could deter consumers from embracing a product labeled with the number 13, potentially leading to hesitation in adoption or even negative perceptions. Associating a major tech release with an unlucky number may subconsciously influence potential users, making them wary of upgrading to the new version, despite its features.
 
