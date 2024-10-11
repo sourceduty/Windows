@@ -1,4 +1,4 @@
-![Windows Brain Meme](https://github.com/user-attachments/assets/3cfd743f-a71b-4f8f-abda-50c82ecad094)
+![Microsoft](https://github.com/user-attachments/assets/6d0674e1-2b4b-4b7a-8a9e-607cb2c055f4)
 
 > Windows operating system.
 
