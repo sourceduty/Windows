@@ -1,4 +1,4 @@
-![Microsoft](https://github.com/user-attachments/assets/6d0674e1-2b4b-4b7a-8a9e-607cb2c055f4)
+![Windows Meme](https://github.com/user-attachments/assets/ec9c7581-233f-45ce-bf07-349639a0acc9)
 
 > Windows operating system.
 
@@ -8,6 +8,8 @@ Windows 10, introduced in 2015, focused on a user-friendly experience with featu
 
 #
 ### Historic Windows OSs
+
+![Microsoft](https://github.com/user-attachments/assets/6d0674e1-2b4b-4b7a-8a9e-607cb2c055f4)
 
 Microsoft's journey in operating systems began with MS-DOS (Microsoft Disk Operating System) in the early 1980s, laying the foundation for their dominance in personal computing. With the release of Windows 1.0 in 1985, Microsoft revolutionized the user interface with a graphical environment, albeit one limited in functionality. Subsequent iterations, such as Windows 3.0 and Windows 95, brought significant improvements, introducing features like multitasking and a more intuitive user interface. Windows XP marked a milestone in stability and usability, becoming one of the most beloved versions. The early 2000s saw a shift to 64-bit architecture with Windows XP 64-bit Edition and the introduction of Windows Vista, though its reception was mixed due to performance and compatibility issues. Windows 7, released in 2009, restored faith with its improved performance and interface, setting a high standard for user experience.
 
