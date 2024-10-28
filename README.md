@@ -32,6 +32,15 @@ After setting up the new laptop, sign in with the same Microsoft account to rest
 In Windows 11, grouppolicy.msc (the Group Policy Editor) is not included by default in the Home edition of the operating system. This tool is typically reserved for the Pro, Enterprise, and Education versions, where it allows users to modify system settings and enforce administrative policies. The lack of this tool in Windows 11 Home can be inconvenient for users who want more control over system configurations, such as managing Windows updates or setting security policies. To access grouppolicy.msc on Windows 11 Home, users need to upgrade to a Pro version or use alternative methods.
 
 #
+### Photos App Deception
+
+![Photos](https://github.com/user-attachments/assets/c912566c-e6eb-4d6d-a122-b714995ebf7a)
+
+The 'Start Slideshow' button in the Windows Photos app exhibits a deceptive behavior that might confuse users. In recent versions, the button does not immediately appear upon opening the app. Instead, it becomes visible only after an image is selected and the app finishes loading. This design choice forces users to interact with images before they even see the option, which could be seen as intentionally obscuring functionality to make the interface seem more streamlined.
+
+If the button doesn't show up right away, it may be due to the app needing additional time to fully load—an indication that performance optimization might be lacking. Moreover, if only one image is in the folder, the app further restricts access to the slideshow feature, as it requires multiple images to activate. This limitation could be viewed as an unnecessary constraint, making the app seem less capable than it should be. For users facing issues where the button is either missing or not functioning, Microsoft advises updating to the latest version of the app, as earlier versions might not have reliable support for the feature​.
+
+#
 ### Hassle Settings 
 
 ![Settings](https://github.com/user-attachments/assets/8e3f2b57-76b9-4d84-8c31-73e237053c41)
