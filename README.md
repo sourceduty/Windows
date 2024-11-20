@@ -20,6 +20,8 @@ As technology evolved, so did Microsoft's operating systems. Windows 8, with its
 #
 ### Replacing Windows 11
 
+![Coder](https://github.com/user-attachments/assets/e81ddff0-189e-4173-9c19-003dd3f26374)
+
 To switch from one Windows 11 laptop to another, first back up all your important files, settings, and data from your old laptop. You can use cloud storage services like OneDrive, Google Drive, or Dropbox, or an external hard drive to ensure all your documents, photos, and software configurations are safely stored. Additionally, make sure to sync your web browser's data, such as bookmarks, passwords, and settings, by signing into your browser account. If your laptop is connected to a Microsoft account, you can easily sync settings like desktop personalization, saved Wi-Fi networks, and some apps across devices. It’s also a good idea to make a list of programs or software you have installed so you can quickly reinstall them on the new device.
 
 After setting up the new laptop, sign in with the same Microsoft account to restore your settings and files if you used OneDrive for backup. For programs that don't sync automatically, you'll need to reinstall them manually from the web or installation media. Make sure your device drivers and Windows updates are up to date by checking the Windows Update settings. You might also want to configure your desktop environment and preferences the same way you had them on the old laptop. Lastly, double-check that all important files have transferred properly, and consider keeping the old laptop until you're certain everything is set up smoothly on the new one.
