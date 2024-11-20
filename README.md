@@ -175,6 +175,8 @@ Notes:
 [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 <br>
 [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
+<br>
+[Windows OS Simulator](https://github.com/sourceduty/Windows_OS_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
