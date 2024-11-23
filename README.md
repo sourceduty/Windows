@@ -177,6 +177,8 @@ Notes:
 [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 <br>
 [Windows OS Simulator](https://github.com/sourceduty/Windows_OS_Simulator)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
