@@ -179,6 +179,8 @@ Notes:
 [Windows OS Simulator](https://github.com/sourceduty/Windows_OS_Simulator)
 <br>
 [OS Automation](https://github.com/sourceduty/OS_Automation)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
