@@ -35,6 +35,8 @@ The "maintenance.vbs" and "startupcheck.vbs" files are both Visual Basic Script 
 
 In many cases, "maintenance.vbs" scripts are created to automate routine maintenance tasks such as disk cleanup, registry maintenance, or system optimization. These scripts can help streamline the maintenance process by executing predefined actions without the need for manual intervention. On the other hand, "startupcheck.vbs" scripts may be designed to verify the integrity of system startup processes, ensuring that critical components load correctly and detecting any errors or discrepancies that may occur during startup. By running these checks automatically, system administrators can proactively identify and address issues that could potentially impact system performance or stability. Overall, both "maintenance.vbs" and "startupcheck.vbs" serve as valuable tools for system administrators to streamline maintenance workflows and ensure the smooth operation of Windows systems.
 
+![VBS](https://github.com/user-attachments/assets/175bbf02-1457-49a7-b14a-dac818c8c0cb)
+
 #
 ### Group Policies
 
