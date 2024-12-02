@@ -27,6 +27,15 @@ To switch from one Windows 11 laptop to another, first back up all your importan
 After setting up the new laptop, sign in with the same Microsoft account to restore your settings and files if you used OneDrive for backup. For programs that don't sync automatically, you'll need to reinstall them manually from the web or installation media. Make sure your device drivers and Windows updates are up to date by checking the Windows Update settings. You might also want to configure your desktop environment and preferences the same way you had them on the old laptop. Lastly, double-check that all important files have transferred properly, and consider keeping the old laptop until you're certain everything is set up smoothly on the new one.
 
 #
+### VBS Startup Error
+
+![Windows 11 Startup VBS Error](https://github.com/user-attachments/assets/9db9d2c5-6b5c-42e0-8b23-fe818186b436)
+
+The "maintenance.vbs" and "startupcheck.vbs" files are both Visual Basic Script files often utilized within Windows environments for system maintenance and startup verification tasks. Visual Basic Scripting (VBS) is a scripting language developed by Microsoft, commonly used for automating administrative tasks and performing various functions on Windows systems. These scripts are text files with a ".vbs" extension, containing code written in the Visual Basic Scripting language.
+
+In many cases, "maintenance.vbs" scripts are created to automate routine maintenance tasks such as disk cleanup, registry maintenance, or system optimization. These scripts can help streamline the maintenance process by executing predefined actions without the need for manual intervention. On the other hand, "startupcheck.vbs" scripts may be designed to verify the integrity of system startup processes, ensuring that critical components load correctly and detecting any errors or discrepancies that may occur during startup. By running these checks automatically, system administrators can proactively identify and address issues that could potentially impact system performance or stability. Overall, both "maintenance.vbs" and "startupcheck.vbs" serve as valuable tools for system administrators to streamline maintenance workflows and ensure the smooth operation of Windows systems.
+
+#
 ### Group Policies
 
 ![Group Policy](https://github.com/user-attachments/assets/1765752b-e6a5-49a4-9754-98f419a15fb7)
