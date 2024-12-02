@@ -173,6 +173,9 @@ Notes:
 - Virtualization Alternative: If direct installation fails, consider running the legacy OS in a virtual machine.
 
 #
+![Underwater](https://github.com/user-attachments/assets/42239b64-fd8b-473d-ba74-e23ea0eda47c)
+
+#
 ### Related Links
 
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
